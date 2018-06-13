@@ -1,0 +1,67 @@
+.col-xs-12 {
+  margin: 10;
+  padding: 17px;
+}
+
+video {
+  cursor: pointer;
+  font-family: 'Courier New';
+  font-size: 3pt;
+}
+
+
+.grotermaat {
+  position: fixed!important;
+  z-index: 9998!important;
+  width: 96%!important;
+  left: 2%!important;
+}
+
+body {background-color: white;
+}
+
+h1.hoofdtitel {
+    color: rgb(0,0,0);
+    font-size: 12pt;
+    font-family: 'Courier New';
+
+}
+
+.hidden {
+  display: none;
+}
+
+.headerrow {
+  position:fixed;
+  z-index:9999;
+}
+
+.videorow {
+  padding-top: 2em
+}
+
+.fancybox-bg {
+    background: yellow;
+}
+
+.fancybox-is-open .fancybox-bg {
+    opacity: 0;
+}
+
+.fancybox-bg
+{
+    background:none !important;
+}
+
+.fancybox-infobar {background-color: #fff;
+color:#000!important;
+opacity: 1!important}
+
+p {
+    color: rgb(0,0,0);
+    font-family: 'Courier New';
+    font-size: 9pt;
+    margin-top: 0.3em
+
+
+}
